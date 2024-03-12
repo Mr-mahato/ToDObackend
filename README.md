@@ -2,4 +2,4 @@
 
 This backend part is hosted on Render.com.
 
-**Live URL:** [https://merotask.netlify.app/](https://merotask.netlify.app/)
+**Live URL:** <a href="https://merotask.netlify.app/" target="_blank">https://merotask.netlify.app/</a>
