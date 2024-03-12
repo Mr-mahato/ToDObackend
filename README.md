@@ -1,2 +1,5 @@
-# Todo backend part
-<p> This backend part is being hosted to render.com</p>
+# Todo Backend Part
+
+This backend part is hosted on Render.com.
+
+**Live URL:** [https://merotask.netlify.app/](https://merotask.netlify.app/)
